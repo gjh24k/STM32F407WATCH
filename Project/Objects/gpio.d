@@ -1,4 +1,5 @@
 .\objects\gpio.o: ..\Drivers\BSP\gpio.c
+.\objects\gpio.o: ..\Drivers\BSP\gpio.h
 .\objects\gpio.o: ..\Core\stm32f4xx.h
 .\objects\gpio.o: ..\Drivers\CMSIS\core_cm4.h
 .\objects\gpio.o: D:\Keil_Install\ARM\ARMCC\Bin\..\include\stdint.h

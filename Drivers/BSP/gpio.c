@@ -1,4 +1,4 @@
-#include "stm32f4xx.h"
+#include "gpio.h"
 
 //PA5 - SCLK
 //PA7 - MOSI
