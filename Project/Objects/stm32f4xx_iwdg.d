@@ -2,7 +2,7 @@
 .\objects\stm32f4xx_iwdg.o: ..\Drivers\Library\inc\stm32f4xx_iwdg.h
 .\objects\stm32f4xx_iwdg.o: ..\Core\stm32f4xx.h
 .\objects\stm32f4xx_iwdg.o: ..\Drivers\CMSIS\core_cm4.h
-.\objects\stm32f4xx_iwdg.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f4xx_iwdg.o: D:\Keil_Install\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\stm32f4xx_iwdg.o: ..\Drivers\CMSIS\core_cmInstr.h
 .\objects\stm32f4xx_iwdg.o: ..\Drivers\CMSIS\core_cmFunc.h
 .\objects\stm32f4xx_iwdg.o: ..\Drivers\CMSIS\core_cmSimd.h

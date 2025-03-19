@@ -1,7 +1,7 @@
 .\objects\spi.o: ..\Drivers\BSP\spi.c
 .\objects\spi.o: ..\Core\stm32f4xx.h
 .\objects\spi.o: ..\Drivers\CMSIS\core_cm4.h
-.\objects\spi.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\spi.o: D:\Keil_Install\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\spi.o: ..\Drivers\CMSIS\core_cmInstr.h
 .\objects\spi.o: ..\Drivers\CMSIS\core_cmFunc.h
 .\objects\spi.o: ..\Drivers\CMSIS\core_cmSimd.h

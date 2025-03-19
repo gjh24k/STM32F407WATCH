@@ -1,7 +1,7 @@
 .\objects\main.o: ..\Core\main.c
 .\objects\main.o: ..\Core\stm32f4xx.h
 .\objects\main.o: ..\Drivers\CMSIS\core_cm4.h
-.\objects\main.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: D:\Keil_Install\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main.o: ..\Drivers\CMSIS\core_cmInstr.h
 .\objects\main.o: ..\Drivers\CMSIS\core_cmFunc.h
 .\objects\main.o: ..\Drivers\CMSIS\core_cmSimd.h
